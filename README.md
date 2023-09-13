@@ -8,7 +8,7 @@ The Aventen S3 Sync is an powerful ESP32-S3 based development board with WiFi an
 
 | Name                       | MCU                  | PSRAM | FLASH | Built-in SD Card | Built-in WiFi/Bluetooth | Onboard LED | Header Pins | USB Connector | Ethernet       | Debugging | Aux LDO 1A | Chip Antenna + IPX w RF Switch | Battery Support (JST) + USB LiPo Charge |
 |----------------------------|----------------------|-------|-------|------------------|-------------------------|-------------|-------------|---------------|----------------|----------|------------|--------------------------------|----------------------------------------|
-| Aventen S3 Sync            | ESP32-S3 SOC         | User Addition - Expandable | 16MB  | -                | Y             | RGB         | 46            | USB-C         | -                | JTAG/SWD | -          | Y               | Y                                      |
+| Aventen S3 Sync            | ESP32-S3 SOC         | User Addition - Expandable | 16MB  | -                | Y             | RGB         | 43            | USB-C         | -                | JTAG/SWD | -          | Y               | Y                                      |
 
 # Status
 Prototype stage finished, board is ready for retail. We have added support for Arduino IDE, and are finishing support for PlatformIO, still looking into other IDEs to integrate our boards into.
